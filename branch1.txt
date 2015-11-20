@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This file is created in b1.
-=======
-modified from b1.
->>>>>>> b1
+modified in master.
