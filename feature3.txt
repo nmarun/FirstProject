@@ -1,3 +1,0 @@
-feature3
-
-modified
