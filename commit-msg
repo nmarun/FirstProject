@@ -1,0 +1,8 @@
+#!/bin/sh
+
+test "" = "$(grep '^\d*' "$1")" && {
+   echo >&2 "Start the commit message with the task-id!"
+   exit 1
+}
+
+exit 0
